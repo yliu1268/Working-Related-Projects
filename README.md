@@ -1,4 +1,4 @@
-# Working-Related-Projects
+# Work-Related Projects
 
 In this section, I posted some projects which are related or similar to my daily job as a data scientist/ Data Engineer.
 The main language I used is Python. SQL and Java are also used from time to time.
